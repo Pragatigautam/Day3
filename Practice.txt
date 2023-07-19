@@ -7,3 +7,5 @@ This is just to check if I can push new things to the remote repository
 Adding some more
 
 hajshk
+
+pull command
